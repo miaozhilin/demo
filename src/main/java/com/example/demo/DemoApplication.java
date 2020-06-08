@@ -4,6 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 /*
 * 这是一个git测试类
+* 哈哈哈：这是我第一次修改
 * */
 @SpringBootApplication
 public class DemoApplication {
